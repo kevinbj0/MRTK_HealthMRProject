@@ -3,8 +3,6 @@
 
 
 # MRTK 가상환경 재활운동 프로그램
-MRTK_ExerciseAnywhere_project
-
 ## 🖥️ 프로젝트 소개
 mrtk를 활용하며 홀로렌즈와 Nreallight 플랫폼에서 동작하는 운동을 통한 재활치료 
 프로젝트 입니다. hand tracking을 활용하여 UI를 동작하고 mpu센서를 활용하여 
