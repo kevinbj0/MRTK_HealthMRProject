@@ -1,15 +1,9 @@
+
+
+
+
+# MRTK 가상환경 재활운동 프로그램
 useMRTK_ExerciseAnywhere_MRproject
-
-Using mrtk, you can run programs on HoloLens and the Nreallight platform. 
-It's a project. Operate UI using hand tracking and use mpu sensor
-Detects movement. It also sets a guide and a target point to exercise in the right posture
-It is a project that allows users to enjoy simple exercise anytime, anywhere by utilizing virtual space.
-
-
-
-# SpringBoot-Project-MEGABOX
-스프링 부트 + JSP 파싱_영화 예매 사이트
-
 
 ## 🖥️ 프로젝트 소개
 mrtk를 활용하며 홀로렌즈와 Nreallight 플랫폼에서 동작하는 운동을 통한 재활치료 
