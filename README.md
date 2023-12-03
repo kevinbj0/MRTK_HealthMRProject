@@ -16,7 +16,7 @@ mrtk를 활용하며 홀로렌즈와 Nreallight 플랫폼에서 동작하는 운
 
 ### 📚 담당역할
  - 유니티 클라이언트 (기여도 90%), 모델링 (기여도 100%), 메뉴흐름 구성 (기여도 90%), RDS연결 (기여도 70%)
-
+<br><br>
 ## 시스템 아키텍처
 
 <img src = "https://github.com/kevinbj0/image/blob/main/%ED%99%80%EB%A1%9C%EB%A0%8C%EC%A6%88%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png?raw=true">
